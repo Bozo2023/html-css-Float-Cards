@@ -24,7 +24,9 @@ height: 90px;
 background-color: black;
 width: 300px;
 }
-img{
+ul{
+    list-style-type: none;
+    float: right;
 }
 .nom{
     color: white;
